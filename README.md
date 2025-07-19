@@ -39,7 +39,7 @@
  
   <!--STATUS-->
   
-  ## *Estatísticas*📊
+  ## 📊*Estatísticas*
 <p>
   <img 
     align="left" 
