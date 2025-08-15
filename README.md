@@ -1,7 +1,6 @@
 # Samuel Dayne 🦉
 **`Desenvolvedor Full Stack`**
 - Estudante da [Escola Técnica Estadual Professor Camargo Aranha](https://eteccamargoaranha.cps.sp.gov.br/)
-- Atualmente focado em aprender <b>Python</b> 🐍
 - Futuro Ethical Hacker 👾
   
   ---
